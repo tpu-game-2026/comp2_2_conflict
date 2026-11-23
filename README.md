@@ -7,7 +7,7 @@ mainブランチとfeatureブランチに対して、テキストとバイナリ
 
 ここは「feature/another_update」ブランチです
 
-![画像](image.png)
+
 
 # 進め方
 
